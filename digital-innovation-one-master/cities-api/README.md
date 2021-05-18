@@ -11,7 +11,7 @@
 
 ## DataBase
 
-### Postgres
+### Postgres.
 
 * [Postgres Docker Hub](https://hub.docker.com/_/postgres)
 
